@@ -9,7 +9,7 @@ float scr;
 int choice;
 
 
-int main()
+int main() 
 {
 
 for(;;)
