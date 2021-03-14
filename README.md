@@ -1,2 +1,2 @@
 # Calculator
-Created in Python.
+Created in C++.
